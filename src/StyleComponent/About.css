@@ -1,0 +1,53 @@
+.HeaderAbout{
+    border:solid 1px black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.HeaderAbout h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.HeaderAbout .linkHeader{
+    text-align: right;
+}
+
+.BodyAbout{
+    border: solid 1px black;
+    margin-top: 15px;
+    padding:5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.BodyAbout .me{
+    border: solid 1px;
+    width: 600px;
+    margin-left: 5px;
+    text-align: justify;
+}
+
+.BodyAbout .me p{
+    font-family: consolas;
+}
+
+.BodyAbout .me .imgProfilDIV{
+    background: silver;
+    border:solid 1px silver;
+    height: 250px;
+}
+
+.BodyAbout .site .imgSiteDIV{
+    background: silver;
+    border:solid 1px silver;
+    height: 250px;
+}
+
+.BodyAbout .site{
+    border: solid 1px;
+    margin-left: 5px;
+    width: 600px;
+}

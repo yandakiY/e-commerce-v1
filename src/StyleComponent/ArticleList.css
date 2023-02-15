@@ -1,0 +1,9 @@
+.ArticleList{
+    border:solid 1px black;
+    /* margin-top: 2px; */
+}
+
+.ArticleList .Article{
+    /* margin-left: 5px; */
+    padding: 10px;
+}

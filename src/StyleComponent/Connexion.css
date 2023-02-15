@@ -1,0 +1,14 @@
+.ConnexionAbout{
+   border:solid 1px;
+   display: flex;
+   flex-direction:row ;
+   align-items: center;
+}
+
+.ConnexionAbout h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.ConnexionAbout .linkConnexion{
+    text-align: right;
+}

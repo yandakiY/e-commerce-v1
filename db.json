@@ -1,0 +1,132 @@
+{
+  "type": [
+    {
+      "id": 1,
+      "name": "Immobilier"
+    },
+    {
+      "id": 2,
+      "name": "Menager"
+    },
+    {
+      "id": 3,
+      "name": "Sports"
+    },
+    {
+      "id": 4,
+      "name": "Alimentaire"
+    }
+  ],
+  "panier": [],
+  "panierOk": [
+    {
+      "userNumber": "5247",
+      "userMail": "boa@gmail.com",
+      "date": "Sat, 25 Jun 2022 22:34:48 GMT",
+      "article": [
+        {
+          "id": 1,
+          "name": "Peigne 15cm",
+          "type": "Cosmetique",
+          "like": 22,
+          "dislike": 5,
+          "price": 500,
+          "nbQte": 8
+        }
+      ],
+      "totalPanier": 4000,
+      "id": 1
+    },
+    {
+      "userNumber": "88",
+      "userMail": "f",
+      "date": "Fri, 16 Sep 2022 11:32:01 GMT",
+      "article": [
+        {
+          "id": 3,
+          "name": "Sac de Riz MAMAN 24.5 kg",
+          "type": "Alimentaire",
+          "like": 11,
+          "dislike": 2,
+          "price": "5350",
+          "nbQte": 1
+        },
+        {
+          "id": 1,
+          "name": "Peigne 15cm",
+          "type": "Cosmetique",
+          "like": 22,
+          "dislike": 5,
+          "price": 500,
+          "nbQte": 4
+        }
+      ],
+      "totalPanier": 7350,
+      "id": 2
+    }
+  ],
+  "article": [
+    {
+      "id": 2,
+      "name": "Ballon Officiel UEFA",
+      "type": "Sports",
+      "like": 30,
+      "dislike": 16,
+      "price": 2500
+    },
+    {
+      "id": 3,
+      "name": "Sac de Riz MAMAN 24.5 kg",
+      "type": "Alimentaire",
+      "like": 12,
+      "dislike": 3,
+      "price": "5350"
+    },
+    {
+      "id": 4,
+      "name": "Villa Petunia BatirSa",
+      "type": "Immobilier",
+      "like": 2,
+      "dislike": 0,
+      "price": 5000000
+    },
+    {
+      "id": 5,
+      "name": "Home Cinema Bluetooh",
+      "type": "Alimentaire",
+      "like": 2,
+      "dislike": 0,
+      "price": 15000
+    },
+    {
+      "name": "Figurine Kylian Mbappe ",
+      "price": "250",
+      "type": "Sports",
+      "like": 10,
+      "dislike": 0,
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "login": "boa",
+      "mdp": "00000000"
+    },
+    {
+      "id": 1,
+      "login": "yandaki",
+      "mdp": "00000000"
+    },
+    {
+      "id": 1,
+      "login": "michel",
+      "mdp": "00000000"
+    },
+    {
+      "login": "ok",
+      "mdp": "ok",
+      "id": 6
+    }
+  ]
+}

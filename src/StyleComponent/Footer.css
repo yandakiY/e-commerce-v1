@@ -1,0 +1,9 @@
+.Footer footer{
+    text-align: center;
+    margin-top: 15px;
+}
+
+footer{
+    font-family: consolas;
+    font-weight: bold;
+}
